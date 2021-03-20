@@ -1,0 +1,13 @@
+{
+  "title": "Aplicação Móvel e Centro de Controlo de Tráfego para Serviços C-ITS",
+  "text": "Plataforma para monitorização e emissão de eventos sobre o estado das estradas",
+  "button": [
+    {
+      "title": "Explorar"
+    },
+    {
+      "title": "Saiba Mais",
+      "color": "#fff"
+    }
+  ]
+}

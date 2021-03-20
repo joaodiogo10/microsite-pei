@@ -1,0 +1,16 @@
+{
+  "title": "Dashboards",
+  "text": "Dashboard para consulta de estatísticas sobre o estado da estrada ao longo do tempo",
+  "section": [
+    {
+      "title": "Time Travel",
+      "content": "Desde consultar o estado das estradas em qualquer data",
+      "icon": "clock.svg"
+    },
+    {
+      "title": "Estatísticas",
+      "content": "Até analises estatísticas sobre quantidade de eventos e volume de tráfego",
+      "icon": "insight.svg"
+    }
+  ]
+}
