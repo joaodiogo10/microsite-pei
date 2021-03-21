@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: update on service provider
-        run: curl http://unn4m3dd.xyz/update?repo=microsite-pei
+        run: curl http://unn4m3dd.xyz/update?repo=microsite-pei --connect-timeout 300
