@@ -4,7 +4,7 @@
 
 ### Site
 - [ ]  Criar projeto e incluir a visualização de mapas - Ana e João
-- [ ]  Criação API para consulta de dados em tempo real - André
+- [x]  Criação API para consulta de dados em tempo real - André
   * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Ana e João
     * [ ]  CAM - Ana
     * [ ]  CPM - João
@@ -29,7 +29,7 @@
 
 ### App
 * [ ]  Criar projeto e incluir a visualização de mapas - André
-* [ ]  Criar integração do broker local com broker central - André
+* [x]  Criar integração do broker local com broker central - André
   * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Gil
     * [ ]  CAM - André
     * [ ]  CPM - Gil
@@ -41,6 +41,7 @@
   * [ ]  DENM - André
   * [ ]  IVIM - Gil
   * [ ]  VAM - André - Optional
-* [ ]  Criação API para consulta e publicação de dados em tempo real - André
+* [x]  Criação API para consulta de dados em tempo real - André
+* [ ]  Criação API para publicação de dados em tempo real - André
   * [ ]  Modo de utilização para peões - Gil
   * [ ]  Modo de utilização para ciclistas - Gil
