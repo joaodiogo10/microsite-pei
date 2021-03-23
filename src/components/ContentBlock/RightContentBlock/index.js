@@ -9,6 +9,7 @@ import * as S from "./styles";
 
 const RightBlock = ({ title, content, button, icon, t, id }) => {
   const scrollTo = (id) => {
+    console.log(id)
     const element = document.getElementById(id);
     element.scrollIntoView({
       behavior: "smooth",
@@ -31,7 +32,7 @@ const RightBlock = ({ title, content, button, icon, t, id }) => {
                         key={id}
                         color={item.color}
                         width="true"
-                        onClick={() => scrollTo("about")}
+                        onClick={() => scrollTo(item.destination)}
                       >
                         {t(item.title)}
                       </Button>

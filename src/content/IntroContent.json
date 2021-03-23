@@ -3,11 +3,13 @@
   "text": "Plataforma para monitorização e emissão de eventos sobre o estado das estradas",
   "button": [
     {
-      "title": "Explorar"
+      "title": "Dashboards",
+      "destination": "dashboard"
     },
     {
       "title": "Saiba Mais",
-      "color": "#fff"
+      "color": "#fff",
+      "destination": "about"
     }
   ]
 }
