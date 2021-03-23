@@ -31,7 +31,7 @@ const Home = () => {
         <table>
           <thead>
             <tr>
-              <th >Entregavel</th>
+              <th>Entregável</th>
               <th>Entrega</th>
             </tr>
           </thead>
