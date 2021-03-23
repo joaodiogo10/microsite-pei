@@ -11,7 +11,9 @@ thead{
   color: #ffffff;
   background: #2980b9;
 }
-
+th{
+  background: #2980b9;
+}
 tr{
   display: table-row;
   background: #f6f6f6;
@@ -21,4 +23,6 @@ tr:nth-child(even){
 }
 tr:hover{
   background-color: #cfe1ec;
+}
+p{
 }
