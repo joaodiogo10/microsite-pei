@@ -3,45 +3,45 @@
 * [ ]  Discussão sobre arquitetura - Todos
 
 ### Site
-- [ ]  Criar projeto e incluir a visualização de mapas - Ana e João
-- [x]  Criação API para consulta de dados em tempo real - André
-  * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Ana e João
-    * [ ]  CAM - Ana
-    * [ ]  CPM - João
-    * [ ]  HD-Maps - João - Optional
-  * [ ]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - Ana e João
-    * [ ]  DENM - Ana
-    * [ ]  IVIM - João
-    * [ ]  HD-Maps - Ana - Optional
-- [ ]  Criação API para publicação de dados em tempo real - André
-  * [ ]  Integração com backend para dar ao gestor do centro de controlo de tráfego a possibilidade de enviar mensagens - Ana e João
-    * [ ]  DENM - Ana
-    * [ ]  IVIM - João
-    * [ ]  HD-Maps - Ana - Optional
+- [ ]  Criar projeto e incluir a visualização de mapas - Ana e João \[21/3 - 10/4\]
+- [x]  Criação API para consulta de dados em tempo real - André \[7/4 - 11/4\]
+  * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Ana e João \[15/4 - 24/4\]
+    * [ ]  CAM - Ana \[23/4 - 1/5\]
+    * [ ]  CPM - João \[23/4 - 1/5\]
+    * [ ]  HD-Maps - João - Optional \[23/4 - 1/5\]
+  * [ ]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - Ana e João \[1/5 - 6/5\]
+    * [ ]  DENM - Ana \[6/5 - 14/5\]
+    * [ ]  IVIM - João \[6/5 - 14/5\]
+    * [ ]  HD-Maps - Ana - Optional \[6/5 - 14/5\]
+- [ ]  Criação API para publicação de dados em tempo real - André \[16/5 - 28/5\]
+  * [ ]  Integração com backend para dar ao gestor do centro de controlo de tráfego a possibilidade de enviar mensagens - Ana e João \[14/5 - 20/5\]
+    * [ ]  DENM - Ana \[19/5 - 28/5\]
+    * [ ]  IVIM - João \[19/5 - 28/5\]
+    * [ ]  HD-Maps - Ana - Optional \[19/5 - 28/5\]
 
-* [ ]  Criação base de dados de suporte à timeline - André
-  * [ ]  Criação da api para visualização da timeline de eventos na estrada - André
-    * [ ]  Consulta do estado da estrada numa timeline - Ana e João
-    * [ ]  Dashboard com informações estatísticas sobre flow de tráfego - Ana e João
-      * [ ]  Velocidade media por hora - Ana
-      * [ ]  Tipos de veículos - João
-      * [ ]  Quantidade de veículos - Ana
+* [ ]  Criação base de dados de suporte à timeline - André \[10/5 - 17/5\]
+  * [ ]  Criação da api para visualização da timeline de eventos na estrada - André \[16/5 - 28/5\]
+    * [ ]  Consulta do estado da estrada numa timeline - Ana e João \[28/5 - 5/6\]
+    * [ ]  Dashboard com informações estatísticas sobre flow de tráfego - Ana e João \[5/6 - 21/6\]
+      * [ ]  Velocidade media por hora - Ana \[5/6 - 21/6\]
+      * [ ]  Tipos de veículos - João \[5/6 - 21/6\]
+      * [ ]  Quantidade de veículos - Ana \[5/6 - 21/6\]
 
 ### App
-* [ ]  Criar projeto e incluir a visualização de mapas - André
-* [x]  Criar integração do broker local com broker central - André
-  * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Gil
-    * [ ]  CAM - André
-    * [ ]  CPM - Gil
-  * [ ]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - André Gil
-    * [ ]  DENM - André
-    * [ ]  IVIM - Gil
-    * [ ]  HD-Maps - Gil - Optional
-* [ ]  Integração com backend para dar aos users a possibilidade de enviar mensagens - André Gil
-  * [ ]  DENM - André
-  * [ ]  IVIM - Gil
-  * [ ]  VAM - André - Optional
-* [x]  Criação API para consulta de dados em tempo real - André
-* [ ]  Criação API para publicação de dados em tempo real - André
-  * [ ]  Modo de utilização para peões - Gil
-  * [ ]  Modo de utilização para ciclistas - Gil
+* [ ]  Criar projeto e incluir a visualização de mapas - André \[\]
+* [x]  Criar integração do broker local com broker central - André \[\]
+  * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Gil \[\]
+    * [ ]  CAM - André \[\]
+    * [ ]  CPM - Gil \[\]
+  * [ ]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - André Gil \[\]
+    * [ ]  DENM - André \[\]
+    * [ ]  IVIM - Gil \[\]
+    * [ ]  HD-Maps - Gil - Optional \[\]
+* [ ]  Integração com backend para dar aos users a possibilidade de enviar mensagens - André Gil \[\]
+  * [ ]  DENM - André \[\]
+  * [ ]  IVIM - Gil \[\]
+  * [ ]  VAM - André - Optional \[\]
+* [x]  Criação API para consulta de dados em tempo real - André \[\]
+* [ ]  Criação API para publicação de dados em tempo real - André \[\]
+  * [ ]  Modo de utilização para peões - Gil \[\]
+  * [ ]  Modo de utilização para ciclistas - Gil \[\]
