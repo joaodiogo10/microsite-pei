@@ -42,6 +42,6 @@
   * [ ]  IVIM - Gil \[19/5 - 28/5\]
   * [ ]  VAM - André - Optional \[19/5 - 28/5\]
 * [x]  Criação API para consulta de dados em tempo real - André \[28/5 - 10/6\]
-* [ ]  Criação API para publicação de dados em tempo real - André \[\]
+* [ ]  Criação API para publicação de dados em tempo real - André \[28/5 - 10/6\]
   * [ ]  Modo de utilização para peões - Gil \[8/6 - 23/6\]
   * [ ]  Modo de utilização para ciclistas - Gil \[8/6 - 21/6\]
