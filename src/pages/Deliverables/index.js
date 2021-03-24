@@ -13,7 +13,7 @@ const Home = () => {
   }, [])
   const deliverables = [
     { name: "Micro Site", version: "1.0", link: "/" },
-    { name: "Apresentação Do Projeto", version: "1.0", link: "/" },
+    { name: "Apresentação Do Projeto", version: "1.0", link: "/doc/apresentacaoM1.pdf" },
     { name: "Centro de controlo de tráfego", version: "", link: "" },
     { name: "C-ITS Mobile App", version: "", link: "" },
     { name: "Relatório Final", version: "", link: "" },
