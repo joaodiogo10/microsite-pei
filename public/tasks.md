@@ -3,7 +3,7 @@
 * [ ]  Discussão sobre arquitetura - Todos
 
 ### Site
-- [ ]  Criar projeto e incluir a visualização de mapas - Ana e João \[21/3 - 10/4\]
+- [x]  Criar projeto e incluir a visualização de mapas - Ana e João \[21/3 - 10/4\]
 - [x]  Criação API para consulta de dados em tempo real - André \[7/4 - 11/4\]
   * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Ana e João \[15/4 - 24/4\]
     * [ ]  CAM - Ana \[23/4 - 1/5\]
