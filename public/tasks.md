@@ -5,7 +5,7 @@
 ### Site
 - [x]  Criar projeto e incluir a visualização de mapas - Ana e João \[21/3 - 10/4\]
 - [x]  Criação API para consulta de dados em tempo real - André \[7/4 - 11/4\]
-  * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Ana e João \[15/4 - 24/4\]
+  * [x]  Ligar com o backend para visualização em tempo real da posição de veículos - Ana e João \[15/4 - 24/4\]
     * [ ]  CAM - Ana \[23/4 - 1/5\]
     * [ ]  CPM - João \[23/4 - 1/5\]
     * [ ]  HD-Maps - João - Optional \[23/4 - 1/5\]
@@ -28,11 +28,11 @@
       * [ ]  Quantidade de veículos - Ana \[5/6 - 21/6\]
 
 ### App
-* [ ]  Criar projeto e incluir a visualização de mapas - André \[11/4 - 7/4\]
+* [x]  Criar projeto e incluir a visualização de mapas - André \[11/4 - 7/4\]
 * [x]  Criar integração do broker local com broker central - André \[11/4 - 15/4\]
-  * [ ]  Ligar com o backend para visualização em tempo real da posição de veículos - Gil \[15/4 - 24/4\]
-    * [ ]  CAM - André \[23/4 - 1/5\]
-    * [ ]  CPM - Gil \[23/4 - 1/5\]
+  * [x]  Ligar com o backend para visualização em tempo real da posição de veículos - Gil \[15/4 - 24/4\]
+    * [x]  CAM - André \[23/4 - 1/5\]
+    * [x]  CPM - Gil \[23/4 - 1/5\]
   * [ ]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - André Gil \[1/5 - 6/5\]
     * [ ]  DENM - André \[6/5 - 14/5\]
     * [ ]  IVIM - Gil \[6/5 - 14/5\]
