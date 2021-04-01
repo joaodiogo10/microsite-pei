@@ -45,3 +45,4 @@
 * [ ]  Criação API para publicação de dados em tempo real - André \[28/5 - 10/6\]
   * [ ]  Modo de utilização para peões - Gil \[8/6 - 23/6\]
   * [ ]  Modo de utilização para ciclistas - Gil \[8/6 - 21/6\]
+* [ ]  Localização da app para inglês e português - André \[28/5 - 10/6\]
