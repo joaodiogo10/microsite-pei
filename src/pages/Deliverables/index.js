@@ -14,8 +14,8 @@ const Home = () => {
   const deliverables = [
     { name: "Micro Site", version: "1.1", link: "/" },
     { name: "Apresentação Do Projeto", version: "1.0", link: "/doc/apresentacaoM1.pdf" },
-    { name: "Centro de controlo de tráfego", version: "0.1", link: "https://ccam.av.it.pt" },
-    { name: "C-ITS Mobile App", version: "", link: "" },
+    { name: "Centro de controlo de tráfego", version: "0.1", link: "http://ccam.av.it.pt" },
+    { name: "C-ITS Mobile App", version: "1.0", link: "https://expo.io/@unn4m3dd/projects/it2s-mobile-app" },
     { name: "Elaboration Relatório", version: "1.0", link: "/doc/PEI-Elaboration-Presentation.pdf" },
     { name: "Elaboration Apresentação", version: "1.0", link: "/doc/PEI-Elaboration-Report.pdf" },
     { name: "Relatório Final", version: "", link: "" },
