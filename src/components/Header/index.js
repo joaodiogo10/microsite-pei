@@ -34,17 +34,17 @@ const Header = ({ t }) => {
         <S.CustomNavLinkSmall onClick={() => {
           try { scrollTo("about") } catch { window.open("/", "_self") }
         }}>
-          <S.Span>{t("Sobre Nós")}</S.Span>
+          <S.Span>{t("Saiba Mais")}</S.Span>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall onClick={() => {
-          try { scrollTo("mission") } catch { window.open("/", "_self") }
+          try { scrollTo("mobile") } catch { window.open("/", "_self") }
         }}>
-          <S.Span>{t("Objetivo")}</S.Span>
+          <S.Span>{t("Aplicação Movel")}</S.Span>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall onClick={() => {
-          try { scrollTo("product") } catch { window.open("/", "_self") }
+          try { scrollTo("cct") } catch { window.open("/", "_self") }
         }}>
-          <S.Span>{t("Produto")}</S.Span>
+          <S.Span>{t("Centro de Controlo de Tráfego")}</S.Span>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall
           style={{ width: "180px" }}

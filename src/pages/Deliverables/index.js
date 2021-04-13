@@ -1,13 +1,19 @@
-import { lazy } from "react";
+import { lazy, useEffect, useState } from "react";
 import "./styles.css"
+import ReactMarkdown from 'react-markdown'
+import gfm from 'remark-gfm'
 
 const Container = lazy(() => import("../../common/Container"));
 const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
 
 const Home = () => {
+  const [tasks, setTasks] = useState("");
+  useEffect(() => {
+    fetch("/tasks.md").then(e => e.text()).then(setTasks);
+  }, [])
   const deliverables = [
     { name: "Micro Site", version: "1.1", link: "/" },
-    { name: "Apresentação Do Projeto", version: "1.0", link: "/" },
+    { name: "Apresentação Do Projeto", version: "1.0", link: "/doc/apresentacaoM1.pdf" },
     { name: "Centro de controlo de tráfego", version: "0.1", link: "https://ccam.av.it.pt" },
     { name: "C-ITS Mobile App", version: "", link: "" },
     { name: "Elaboration Relatório", version: "1.0", link: "/doc/PEI-Elaboration-Presentation.pdf" },
@@ -26,8 +32,10 @@ const Home = () => {
       }}>
         <table>
           <thead>
-            <th >Entregavel</th>
-            <th>Entrega</th>
+            <tr>
+              <th>Entregável</th>
+              <th>Entrega</th>
+            </tr>
           </thead>
           <tbody>
             {deliverables.map((elem, index) => {
@@ -40,6 +48,9 @@ const Home = () => {
           </tbody>
         </table>
       </div>
+      <ul >
+        <ReactMarkdown plugins={[gfm, { stringLength: 10000 }]}  >{tasks}</ReactMarkdown>
+      </ul>
     </Container>
   );
 };
