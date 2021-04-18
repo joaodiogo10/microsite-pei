@@ -5,6 +5,7 @@
 - Melhorias na performance da app
 - Criação de videos de demonstração para M2
 - Envio de VAMs adicionado à app
+- Heartbeats adicionados a RSUs
 ## Gil
 ## João
 
