@@ -1,3 +1,13 @@
+# Weekly log 1 (18/04):
+## Ana 
+## André:
+- Encaminhamento de mensagens da inqueue e inter_mecs adicionado à camada de tradução
+- Melhorias na performance da app
+- Criação de videos de demonstração para M2
+- Envio de VAMs adicionado à app
+## Gil
+## João
+
 # Tasks:
 
 * [ ]  Discussão sobre arquitetura - Todos
