@@ -1,5 +1,7 @@
 # Weekly log 1 (18/04):
-## Ana 
+## Ana:
+- Conclusão da navbar do site
+- Receção e visualização de DENMs adicionadas ao site
 ## André:
 - Encaminhamento de mensagens da inqueue e inter_mecs adicionado à camada de tradução
 - Melhorias na performance da app
@@ -7,7 +9,11 @@
 - Envio de VAMs adicionado à app
 - Heartbeats adicionados a RSUs
 ## Gil
-## João
+## João:
+- Criação da sidebar para visualização e criação de eventos ao site
+- Início do desenvolvimento da visualização da posição das RSUs 
+- Início do desenvolvimento da interface para criação de DENMs
+- Melhorias na performance do site
 
 # Tasks:
 
@@ -21,7 +27,7 @@
     * [x]  CPM - João \[23/4 - 1/5\]
     * [ ]  HD-Maps - João - Optional \[23/4 - 1/5\]
   * [ ]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - Ana e João \[1/5 - 6/5\]
-    * [ ]  DENM - Ana \[6/5 - 14/5\]
+    * [x]  DENM - Ana \[6/5 - 14/5\]
     * [ ]  IVIM - João \[6/5 - 14/5\]
     * [ ]  HD-Maps - Ana - Optional \[6/5 - 14/5\]
 - [ ]  Criação API para publicação de dados em tempo real - André \[16/5 - 28/5\]
