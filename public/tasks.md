@@ -1,3 +1,10 @@
+# Weekly log 1 (25/04):
+## Ana:
+## André:
+- Heartbeats adicionados à camada de tradução
+## Gil
+## João:
+
 # Weekly log 1 (18/04):
 ## Ana:
 - Conclusão da navbar do site
@@ -30,7 +37,7 @@
     * [x]  DENM - Ana \[6/5 - 14/5\]
     * [ ]  IVIM - João \[6/5 - 14/5\]
     * [ ]  HD-Maps - Ana - Optional \[6/5 - 14/5\]
-- [ ]  Criação API para publicação de dados em tempo real - André \[16/5 - 28/5\]
+- [x]  Criação API para publicação de dados em tempo real - André \[16/5 - 28/5\]
   * [ ]  Integração com backend para dar ao gestor do centro de controlo de tráfego a possibilidade de enviar mensagens - Ana e João \[14/5 - 20/5\]
     * [ ]  DENM - Ana \[19/5 - 28/5\]
     * [ ]  IVIM - João \[19/5 - 28/5\]
@@ -54,12 +61,12 @@
     * [x]  DENM - André \[6/5 - 14/5\]
     * [ ]  IVIM - Gil \[6/5 - 14/5\]
     * [ ]  HD-Maps - Gil - Optional \[6/5 - 14/5\]
-* [ ]  Integração com backend para dar aos users a possibilidade de enviar mensagens - André Gil \[14/5 - 20/5\]
-  * [ ]  DENM - André \[19/5 - 28/5\]
+* [x]  Integração com backend para dar aos users a possibilidade de enviar mensagens - André Gil \[14/5 - 20/5\]
+  * [x]  DENM - André \[19/5 - 28/5\]
   * [ ]  IVIM - Gil \[19/5 - 28/5\]
-  * [ ]  VAM - André - Optional \[19/5 - 28/5\]
+  * [x]  VAM - André - Optional \[19/5 - 28/5\]
 * [x]  Criação API para consulta de dados em tempo real - André \[28/5 - 10/6\]
-* [ ]  Criação API para publicação de dados em tempo real - André \[28/5 - 10/6\]
+* [x]  Criação API para publicação de dados em tempo real - André \[28/5 - 10/6\]
   * [ ]  Modo de utilização para peões - Gil \[8/6 - 23/6\]
   * [ ]  Modo de utilização para ciclistas - Gil \[8/6 - 21/6\]
-* [ ]  Localização da app para inglês e português - André \[28/5 - 10/6\]
+* [x]  Localização da app para inglês e português - André \[28/5 - 10/6\]
