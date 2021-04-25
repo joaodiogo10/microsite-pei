@@ -2,6 +2,7 @@
 ## Ana:
 ## André:
 - Heartbeats adicionados à camada de tradução
+- Analise de requisitos relativa à camada de persistencia da aplicação
 ## Gil
 ## João:
 
