@@ -1,9 +1,11 @@
-# Weekly log 1 (25/04):
+# Weekly log 2 (25/04):
 ## Ana:
 ## André:
 - Heartbeats adicionados à camada de tradução
 - Analise de requisitos relativa à camada de persistencia da aplicação
-## Gil
+## Gil:
+- Adição de um botão de BACK ao menu das sub_causes das DENMs;
+- Envio de DENMs 
 ## João:
 
 # Weekly log 1 (18/04):
@@ -16,7 +18,8 @@
 - Criação de videos de demonstração para M2
 - Envio de VAMs adicionado à app
 - Heartbeats adicionados a RSUs
-## Gil
+## Gil:
+- Suporte para interface multilingue
 ## João:
 - Criação da sidebar para visualização e criação de eventos ao site
 - Início do desenvolvimento da visualização da posição das RSUs 
