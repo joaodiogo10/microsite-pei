@@ -20,6 +20,8 @@
 - Heartbeats adicionados a RSUs
 ## Gil:
 - Suporte para interface multilingue
+- Envio de CPMs
+- Display simples das CPMs com markers no mapa
 ## João:
 - Criação da sidebar para visualização e criação de eventos ao site
 - Início do desenvolvimento da visualização da posição das RSUs 
