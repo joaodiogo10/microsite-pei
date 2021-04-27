@@ -1,21 +1,27 @@
 # Weekly log 2 (25/04):
 ## Ana:
+- Receção de heartbeats
+- Visualização dos alertas das DENMs adicionado à sidebar
+- Adicionado o método para publicar DENMs
 ## André:
 - Heartbeats adicionados à camada de tradução
-- Analise de requisitos relativa à camada de persistencia da aplicação
+- Análise de requisitos relativa à camada de persistência da aplicação
 ## Gil:
-- Adição de um botão de BACK ao menu das sub_causes das DENMs;
+- Adição de um botão de BACK ao menu das sub_causes das DENMs
 - Envio de DENMs 
 ## João:
+- Conclusão da interface para criação de DENMs na sidebar
+- Conclusão da interface de informação das RSUs na sidebar
+- Adicionado ao mapa coordenadas on click
 
 # Weekly log 1 (18/04):
 ## Ana:
 - Conclusão da navbar do site
-- Receção e visualização de DENMs adicionadas ao site
+- Receção e visualização de DENMs no mapa adicionadas ao site
 ## André:
 - Encaminhamento de mensagens da inqueue e inter_mecs adicionado à camada de tradução
 - Melhorias na performance da app
-- Criação de videos de demonstração para M2
+- Criação de vídeos de demonstração para M2
 - Envio de VAMs adicionado à app
 - Heartbeats adicionados a RSUs
 ## Gil:
@@ -24,13 +30,13 @@
 - Display simples das CPMs com markers no mapa
 ## João:
 - Criação da sidebar para visualização e criação de eventos ao site
-- Início do desenvolvimento da visualização da posição das RSUs 
-- Início do desenvolvimento da interface para criação de DENMs
+- Início do desenvolvimento da visualização da informação das RSUs na sidebar
+- Início do desenvolvimento da interface para criação de DENMs na sidebar
 - Melhorias na performance do site
 
 # Tasks:
 
-* [ ]  Discussão sobre arquitetura - Todos
+* [x]  Discussão sobre arquitetura - Todos
 
 ### Site
 - [x]  Criar projeto e incluir a visualização de mapas - Ana e João \[21/3 - 10/4\]
@@ -39,13 +45,13 @@
     * [x]  CAM - Ana \[23/4 - 1/5\]
     * [x]  CPM - João \[23/4 - 1/5\]
     * [ ]  HD-Maps - João - Optional \[23/4 - 1/5\]
-  * [ ]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - Ana e João \[1/5 - 6/5\]
+  * [x]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - Ana e João \[1/5 - 6/5\]
     * [x]  DENM - Ana \[6/5 - 14/5\]
     * [ ]  IVIM - João \[6/5 - 14/5\]
     * [ ]  HD-Maps - Ana - Optional \[6/5 - 14/5\]
 - [x]  Criação API para publicação de dados em tempo real - André \[16/5 - 28/5\]
-  * [ ]  Integração com backend para dar ao gestor do centro de controlo de tráfego a possibilidade de enviar mensagens - Ana e João \[14/5 - 20/5\]
-    * [ ]  DENM - Ana \[19/5 - 28/5\]
+  * [x]  Integração com backend para dar ao gestor do centro de controlo de tráfego a possibilidade de enviar mensagens - Ana e João \[14/5 - 20/5\]
+    * [x]  DENM - Ana \[19/5 - 28/5\]
     * [ ]  IVIM - João \[19/5 - 28/5\]
     * [ ]  HD-Maps - Ana - Optional \[19/5 - 28/5\]
 
