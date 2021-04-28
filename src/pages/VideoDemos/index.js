@@ -5,15 +5,10 @@ const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
 
 const Home = () => {
   const videos = [
-    { title: "test", url: "video/test.mp4" },
-    { title: "test", url: "video/test.mp4" },
-    { title: "test", url: "video/test.mp4" },
-    { title: "test", url: "video/test.mp4" },
-    { title: "test", url: "video/test.mp4" },
-    { title: "test", url: "video/test.mp4" },
-    { title: "test", url: "video/test.mp4" },
-    { title: "test", url: "video/test.mp4" },
-  ];
+    { title: "test", url: "video/denm_appearing.mp4" },
+    { title: "test", url: "video/highway_viith_denm.mp4" },
+    { title: "test", url: "video/laguage_switching.mp4" },
+    { title: "test", url: "video/send__denm_pc.mp4" },
   return (
     <>
       <ScrollToTop />
