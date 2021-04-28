@@ -9,6 +9,11 @@ const routes = [
     exact: true,
     component: "Deliverables",
   },
+  {
+    path: ["/demos"],
+    exact: true,
+    component: "VideoDemos",
+  },
 ];
 
 export default routes;
