@@ -11,6 +11,7 @@ const Home = () => {
     { title: "test", url: "video/send__denm_pc.mp4" },
   return (
     <>
+      <div id="intro"></div>
       <ScrollToTop />
       <div style={{ display: "flex", width: "100%", flexDirection: "row", flexWrap: "wrap" }}>
         {videos.map((item, index) => {
