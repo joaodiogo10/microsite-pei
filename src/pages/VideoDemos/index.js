@@ -1,14 +1,14 @@
 import { lazy } from "react";
 import ReactPlayer from 'react-player'
 
-const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
+const ScrollToTop = la  zy(() => import("../../common/ScrollToTop"));
 
 const Home = () => {
   const videos = [
-    { title: "test", url: "video/denm_appearing.mp4" },
-    { title: "test", url: "video/highway_viith_denm.mp4" },
-    { title: "test", url: "video/laguage_switching.mp4" },
-    { title: "test", url: "video/send__denm_pc.mp4" },
+    { title: "Uma wild DENM aparece", url: "video/denm_appearing.mp4" },
+    { title: "Auto-estrada com DENM", url: "video/highway_vith_denm.mp4" },
+    { title: "Alterar o idioma", url: "video/laguage_switching.mp4" },
+    { title: "Enviar DENM no browser", url: "video/send__denm_pc.mp4" },
   return (
     <>
       <div id="intro"></div>
