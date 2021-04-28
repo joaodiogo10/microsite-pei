@@ -16,6 +16,7 @@ const Home = () => {
   ];
   return (
     <>
+      <div id="intro"></div>
       <ScrollToTop />
       <div style={{ display: "flex", width: "100%", flexDirection: "row", flexWrap: "wrap" }}>
         {videos.map((item, index) => {
