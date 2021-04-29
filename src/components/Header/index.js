@@ -52,7 +52,6 @@ const Header = ({ t }) => {
             window.open("/demos", "_self")
           }}>
           <S.Span>{t("Demos")}</S.Span>
-
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall
           style={{ width: "180px" }}

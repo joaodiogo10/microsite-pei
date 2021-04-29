@@ -23,21 +23,14 @@ const Home = () => {
               alignItems: "center",
               justifyContent: "center"
             }}>
-              <h1>{item.title}</h1>
-              <ReactPlayer url={item.url} controls={true} />
+              <h1 style={{paddingTop: 100}}>{item.title}</h1>
+              <ReactPlayer url={item.url} controls={true} style={{paddingBottom: 40}}/>
             </div>
           )
         })}
       </div>
     </>
   );
-};
-
-const styles = {
-  centeredDiv: {
-    display: "flex",
-    justifyContent: "center"
-  }
 };
 
 export default Home;
