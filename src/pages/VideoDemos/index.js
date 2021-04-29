@@ -24,7 +24,7 @@ const Home = () => {
               justifyContent: "center"
             }}>
               <h1 style={{paddingTop: 100}}>{item.title}</h1>
-              <ReactPlayer url={item.url} controls={true} style={{paddingBottom: 40}}/>
+              <ReactPlayer url={item.url} controls={true} style={{paddingBottom: 40}} width="100%" height="100%"/>
             </div>
           )
         })}
