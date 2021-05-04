@@ -1,3 +1,16 @@
+# Weekly log 3 (1/06):
+## Ana:
+## André:
+- Criação do repositorio de backend
+- Teste de conecção do backend à base de dados
+- Increased security on central broker (user and password)
+- Minor bug fixes on RSU code (units changed from meters do cm)
+- Minor bug fix on frontend (babel)
+- Minor bug fix on translation layer (reconnect to uper broker when network fails, some exceptions handled)
+- 
+## Gil:
+## João:
+
 # Weekly log 2 (25/04):
 ## Ana:
 - Receção de heartbeats
