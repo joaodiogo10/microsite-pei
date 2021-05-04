@@ -1,4 +1,4 @@
-# Weekly log 3 (1/06):
+# Weekly log 3 (1/05):
 ## Ana:
 ## André:
 - Criação do repositório de backend
@@ -7,7 +7,6 @@
 - Minor bug fixes on RSU code (units changed from meters do cm)
 - Minor bug fix on frontend (babel)
 - Minor bug fix on translation layer (reconnect to uper broker when network fails, some exceptions handled)
-- 
 ## Gil:
 ## João:
 
