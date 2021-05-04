@@ -1,8 +1,8 @@
 # Weekly log 3 (1/06):
 ## Ana:
 ## André:
-- Criação do repositorio de backend
-- Teste de conecção do backend à base de dados
+- Criação do repositório de backend
+- Teste de conceção do backend à base de dados
 - Increased security on central broker (user and password)
 - Minor bug fixes on RSU code (units changed from meters do cm)
 - Minor bug fix on frontend (babel)
