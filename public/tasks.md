@@ -8,6 +8,8 @@
 - Minor bug fix on frontend (babel)
 - Minor bug fix on translation layer (reconnect to uper broker when network fails, some exceptions handled)
 ## Gil:
+- Adição de uma páagina de demos ao micro-site
+- Teste de conceção com o broker no backend
 ## João:
 
 # Weekly log 2 (25/04):
