@@ -10,6 +10,8 @@
 ## Gil:
 - Adição de uma páagina de demos ao micro-site
 - Teste de conceção com o broker no backend
+- Mapeamento do DER num ER
+- Criação da estrutura da base de dados
 ## João:
 
 # Weekly log 2 (25/04):
