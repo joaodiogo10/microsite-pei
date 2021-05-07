@@ -1,10 +1,23 @@
-# Weekly log 3 (1/05):
+# Weekly log 3 (9/05):
 ## Ana:
+- Criação de popups para as DENMs
+## André:
+## Gil:
+## João:
+- Suporte a VAMs adicionado
+- Alteração na unidade de medida das CPMs m -> cm
+- Tradução para português adicionada
+
+# Weekly log 3 (2/05):
+## Ana:
+- Adição de uma tooltip no formulário da criação de DENMs
+- Melhorias na interface de alertas das DENMs
+- Investigação/Experiências com dashboards
 ## André:
 - Criação do repositório de backend
 - Teste de conceção do backend à base de dados
 - Increased security on central broker (user and password)
-- Minor bug fixes on RSU code (units changed from meters do cm)
+- Minor bug fixes on RSU code (units changed from meters to cm)
 - Minor bug fix on frontend (babel)
 - Minor bug fix on translation layer (reconnect to uper broker when network fails, some exceptions handled)
 ## Gil:
@@ -13,6 +26,10 @@
 - Mapeamento do DER num ER
 - Criação da estrutura da base de dados
 ## João:
+- Adição de um pinpoint na criação de DENMs
+- Validação dos campos no formulário da criação de DENMs
+- Adição de animação nas transições do mapa
+- Conexão ao broker com credenciais (username password)
 
 # Weekly log 2 (25/04):
 ## Ana:
@@ -63,6 +80,7 @@
     * [ ]  HD-Maps - João - Optional \[23/4 - 1/5\]
   * [x]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - Ana e João \[1/5 - 6/5\]
     * [x]  DENM - Ana \[6/5 - 14/5\]
+    * [x]  VAM - João \[6/5 - 14/5\]
     * [ ]  IVIM - João \[6/5 - 14/5\]
     * [ ]  HD-Maps - Ana - Optional \[6/5 - 14/5\]
 - [x]  Criação API para publicação de dados em tempo real - André \[16/5 - 28/5\]
@@ -78,6 +96,7 @@
       * [ ]  Velocidade media por hora - Ana \[5/6 - 21/6\]
       * [ ]  Tipos de veículos - João \[5/6 - 21/6\]
       * [ ]  Quantidade de veículos - Ana \[5/6 - 21/6\]
+* [x]  Localização do site para inglês e português - João \[28/5 - 10/6\]
 
 ### App
 * [x]  Criar projeto e incluir a visualização de mapas - André \[11/4 - 7/4\]
