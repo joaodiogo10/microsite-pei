@@ -15,6 +15,8 @@
 - Mock broker para funcionar dentro da UA
 - Criação de uma camada de compatibilidade com msSQL e mySQL
 ## Gil:
+- Documentação e implementação da mock api
+- Store de CPMs e DENMs na db implementado
 ## João:
 - Suporte a VAMs adicionado
 - Alteração na unidade de medida das CPMs m -> cm
