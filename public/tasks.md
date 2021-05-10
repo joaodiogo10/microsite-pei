@@ -1,7 +1,19 @@
+# Weekly log 3 (16/05):
+## Ana:
+## André:
+- Refactor do codigo de backend
+## Gil:
+## João:
 # Weekly log 3 (9/05):
 ## Ana:
 - Criação de popups para as DENMs
 ## André:
+- Bug corrigido na camada de tradução do broker
+- Alteraçao na app para aceitar perceived objects em cm
+- Documentação da API
+- Implementação e deploy de um mock da API
+- Mock broker para funcionar dentro da UA
+- Criação de uma camada de compatibilidade com msSQL e mySQL
 ## Gil:
 ## João:
 - Suporte a VAMs adicionado
