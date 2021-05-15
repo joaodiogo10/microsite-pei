@@ -3,6 +3,9 @@
 ## André:
 - Refactor do codigo de backend
 ## Gil:
+- Corrigidas as coordenadas de perceived objects no backend
+- Adaptação das queries para data collection nas duas dbs
+- Adicionadas as queries para CAMs e VAMs
 ## João:
 # Weekly log 3 (9/05):
 ## Ana:
