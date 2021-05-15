@@ -3,5 +3,5 @@
   "run": "&& serve -s build -l $PORT",
   "title": "Website promotion C-ITS",
   "subtitle": "Website promoting mobile app and traffic control center",
-  "image": "https://raw.githubusercontent.com/Unn4m3DD/microsite-pei/master/demo.gif"
+  "video": "https://raw.githubusercontent.com/Unn4m3DD/microsite-pei/master/demo.mp4"
 }
