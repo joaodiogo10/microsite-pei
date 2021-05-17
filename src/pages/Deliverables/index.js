@@ -12,12 +12,17 @@ const Home = () => {
     fetch("/tasks.md").then(e => e.text()).then(setTasks);
   }, [])
   const deliverables = [
-    { name: "Micro Site", version: "1.1", link: "/" },
+    { name: "Micro Site", version: "2.3", link: "/" },
     { name: "Apresentação Do Projeto", version: "1.0", link: "/doc/apresentacaoM1.pdf" },
-    { name: "Centro de controlo de tráfego", version: "0.1", link: "http://ccam.av.it.pt" },
-    { name: "C-ITS Mobile App", version: "1.0", link: "https://expo.io/@unn4m3dd/projects/it2s-mobile-app" },
+    { name: "Centro de controlo de tráfego", version: "0.8", link: "http://ccam.av.it.pt" },
+    { name: "C-ITS Mobile App", version: "1.3", link: "https://expo.io/@unn4m3dd/projects/it2s-mobile-app" },
     { name: "Elaboration Relatório", version: "1.0", link: "/doc/PEI-Elaboration-Presentation.pdf" },
     { name: "Elaboration Apresentação", version: "1.0", link: "/doc/PEI-Elaboration-Report.pdf" },
+    { name: "Relatório M3", version: "1.0", link: "/doc/PEI-M3-Report.pdf" },
+    { name: "Documentação API", version: "0.7", link: "https://documenter.getpostman.com/view/15665768/TzRX9kpX" },
+    { name: "Link API", version: "0.5", link: "https://ccam.av.it.pt/api" },
+    { name: "Documentação Broker de Tradução", version: "0.9", link: "/doc/broker-doc.7z" },
+    { name: "Link Broker de Tradução", version: "0.7", link: "ccam.av.it.pt:1883" },
     { name: "Relatório Final", version: "", link: "" },
   ]
 
@@ -34,7 +39,7 @@ const Home = () => {
           <thead>
             <tr>
               <th>Entregável</th>
-              <th>Entrega</th>
+              <th>Versão</th>
             </tr>
           </thead>
           <tbody>
