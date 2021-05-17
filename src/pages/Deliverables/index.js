@@ -23,6 +23,7 @@ const Home = () => {
     { name: "Link API", version: "0.5", link: "https://ccam.av.it.pt/api" },
     { name: "Documentação Broker de Tradução", version: "0.9", link: "/doc/broker-doc.7z" },
     { name: "Link Broker de Tradução", version: "0.7", link: "ccam.av.it.pt:1883" },
+    { name: "Demos das Diversas Peças de Software", version: "0.6", link: "/demos" },
     { name: "Relatório Final", version: "", link: "" },
   ]
 
