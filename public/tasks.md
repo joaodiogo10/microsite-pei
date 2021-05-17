@@ -2,7 +2,16 @@
 ## Ana:
 ## André:
 - Refactor do codigo de backend
+- Criaçao da base de dados em mariadb
+- Melhorias e correção de bugs na camada de compatibilidade para mssql e mariadb
+- Criação de um compilador para criação de um esqueleto da API a partir da documentação
+- Adição de sanitização de input na camada de compatibilidade para mssql e mariadb
+- Adição de certificados SSL para uso de HTTPS nas aplicações web
+- Configuração da infraestrutura com uma reverse proxy
 ## Gil:
+- Corrigidas as coordenadas de perceived objects no backend
+- Adaptação das queries para data collection nas duas dbs
+- Adicionadas as queries para CAMs e VAMs
 ## João:
 # Weekly log 3 (9/05):
 ## Ana:
@@ -13,7 +22,7 @@
 - Documentação da API
 - Implementação e deploy de um mock da API
 - Mock broker para funcionar dentro da UA
-- Criação de uma camada de compatibilidade com msSQL e mySQL
+- Criação de uma camada de compatibilidade com msSQL e mariadb
 ## Gil:
 - Documentação e implementação da mock api
 - Store de CPMs e DENMs na db implementado
@@ -95,16 +104,16 @@
   * [x]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - Ana e João \[1/5 - 6/5\]
     * [x]  DENM - Ana \[6/5 - 14/5\]
     * [x]  VAM - João \[6/5 - 14/5\]
-    * [ ]  IVIM - João \[6/5 - 14/5\]
+    * [ ]  IVIM - João - Optional \[6/5 - 14/5\]
     * [ ]  HD-Maps - Ana - Optional \[6/5 - 14/5\]
 - [x]  Criação API para publicação de dados em tempo real - André \[16/5 - 28/5\]
   * [x]  Integração com backend para dar ao gestor do centro de controlo de tráfego a possibilidade de enviar mensagens - Ana e João \[14/5 - 20/5\]
     * [x]  DENM - Ana \[19/5 - 28/5\]
-    * [ ]  IVIM - João \[19/5 - 28/5\]
+    * [ ]  IVIM - João - Optional \[19/5 - 28/5\]
     * [ ]  HD-Maps - Ana - Optional \[19/5 - 28/5\]
 
-* [ ]  Criação base de dados de suporte à timeline - André \[10/5 - 17/5\]
-  * [ ]  Criação da api para visualização da timeline de eventos na estrada - André \[16/5 - 28/5\]
+* [x]  Criação base de dados de suporte à timeline - André \[10/5 - 17/5\]
+  * [x]  Criação da api para visualização da timeline de eventos na estrada - Gil \[16/5 - 28/5\]
     * [ ]  Consulta do estado da estrada numa timeline - Ana e João \[28/5 - 5/6\]
     * [ ]  Dashboard com informações estatísticas sobre flow de tráfego - Ana e João \[5/6 - 21/6\]
       * [ ]  Velocidade media por hora - Ana \[5/6 - 21/6\]
@@ -120,14 +129,14 @@
     * [x]  CPM - Gil \[23/4 - 1/5\]
   * [x]  Ligar com o backend para visualização em tempo real dos alertas rodoviários - André Gil \[1/5 - 6/5\]
     * [x]  DENM - André \[6/5 - 14/5\]
-    * [ ]  IVIM - Gil \[6/5 - 14/5\]
+    * [ ]  IVIM - Gil - Optional \[6/5 - 14/5\]
     * [ ]  HD-Maps - Gil - Optional \[6/5 - 14/5\]
 * [x]  Integração com backend para dar aos users a possibilidade de enviar mensagens - André Gil \[14/5 - 20/5\]
   * [x]  DENM - André \[19/5 - 28/5\]
-  * [ ]  IVIM - Gil \[19/5 - 28/5\]
   * [x]  VAM - André - Optional \[19/5 - 28/5\]
+  * [ ]  IVIM - Gil - Optional \[19/5 - 28/5\]
 * [x]  Criação API para consulta de dados em tempo real - André \[28/5 - 10/6\]
 * [x]  Criação API para publicação de dados em tempo real - André \[28/5 - 10/6\]
-  * [ ]  Modo de utilização para peões - Gil \[8/6 - 23/6\]
-  * [ ]  Modo de utilização para ciclistas - Gil \[8/6 - 21/6\]
+  * [x]  Modo de utilização para peões - Gil \[8/6 - 23/6\]
+  * [x]  Modo de utilização para ciclistas - Gil \[8/6 - 21/6\]
 * [x]  Localização da app para inglês e português - André \[28/5 - 10/6\]
