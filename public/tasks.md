@@ -12,6 +12,8 @@
 - Corrigidas as coordenadas de perceived objects no backend
 - Adaptação das queries para data collection nas duas dbs
 - Adicionadas as queries para CAMs e VAMs
+- Adicionados mais videos à página de demos
+- Corrigido bug em iphone na App
 ## João:
 # Weekly log 3 (9/05):
 ## Ana:
