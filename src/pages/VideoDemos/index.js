@@ -5,12 +5,15 @@ const ScrollToTop = lazy(() => import("../../common/ScrollToTop"));
 
 const Home = () => {
   const videos = [
-    { title: "Uma DENM a aparecer (iPhone)", url: "video/iphone-denm-appearing.mp4" },
-    { title: "Auto-estrada com DENM (iPhone)", url: "video/iphone-highway-with-denm.mp4" },
-    { title: "Alterar o idioma (iPhone)", url: "video/iphone-laguage-switching.mp4" },
-    { title: "Enviar DENM (iPhone)", url: "video/iphone-send-denm.mp4" },
-    { title: "DENM enviada por um iPhone (Browser)", url: "video/browser-iphone-recv-denm.mp4" },
-    { title: "Enviar DENM (Browser)", url: "video/browser-send-denm.mp4" },
+    { title: "Mudança linguagem android", url: "android-language.mp4" },
+    { title: "Enviar DENM android", url: "android-send-denm.mp4" },
+    { title: "Enviar receber DENM android", url: "android-recv-denm.mp4" },
+    { title: "Mudança linguagem iOS", url: "iphone-language.mp4" },
+    { title: "Enviar receber DENM iOS", url: "iphone-recv-denm.mp4" },
+    { title: "Enviar DENM iOS", url: "iphone-send-denm.mp4" },
+    { title: "Enviar DENM web", url: "browser-send-denm.mp4" },
+    { title: "Receber DENM web (android) ", url: "browser-android-recv-denm.mp4" },
+    { title: "Receber DENM web (iOS) ", url: "browser-iphone-recv-denm.mp4" },
   ];
   return (
     <>
