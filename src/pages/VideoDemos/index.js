@@ -30,7 +30,7 @@ const Home = () => {
               justifyContent: "center"
             }}>
               <h1 style={{ paddingTop: 100, textAlign: "center", paddingLeft: 5, paddingRight: 5 }}>{item.title}</h1>
-              <ReactPlayer url={item.url} controls={true} style={{ paddingBottom: 40, maxHeight: 750 }} width="75%" height="100%" />
+              <ReactPlayer url={`video/${item.url}`} controls={true} style={{ paddingBottom: 40, maxHeight: 750 }} width="75%" height="100%" />
             </div>
           )
         })}
