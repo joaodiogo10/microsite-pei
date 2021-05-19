@@ -22,7 +22,7 @@ const Home = () => {
             <div key={index} style={{
               display: "flex",
               flexDirection: "column",
-              width: "50%",
+              width: "33%",
               alignItems: "center",
               justifyContent: "center"
             }}>
