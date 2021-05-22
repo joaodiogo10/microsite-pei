@@ -1,4 +1,9 @@
-# Weekly log 3 (16/05):
+# Weekly log 6 (23/05):
+## Ana:
+## André:
+## Gil:
+## João:
+# Weekly log 5 (16/05):
 ## Ana:
 ## André:
 - Refactor do codigo de backend
@@ -15,7 +20,7 @@
 - Adicionados mais videos à página de demos
 - Corrigido bug em iphone na App
 ## João:
-# Weekly log 3 (9/05):
+# Weekly log 4 (9/05):
 ## Ana:
 - Criação de popups para as DENMs
 ## André:
