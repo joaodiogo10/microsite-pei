@@ -3,6 +3,12 @@
 ## André:
 ## Gil:
 ## João:
+- Desenvolvimento da interface de escolha do intervalo de tempo para a timeline
+- Melhorias no player da timeline
+- Melhoria no style da timeline
+- Mudanças na receção de hearthbeats e cams (passam a usar um buffer e a atualizar a cada 100ms)
+- Adicionadas traduções para a timeline
+- Correção na limpeza do buffer das cams
 # Weekly log 5 (16/05):
 ## Ana:
 ## André:
@@ -20,6 +26,9 @@
 - Adicionados mais videos à página de demos
 - Corrigido bug em iphone na App
 ## João:
+- Início de desenvolvimento da interface da timeline
+- Ligação à api para receber eventos de estrada (cpms)
+- Criação de um player para a timeline
 # Weekly log 4 (9/05):
 ## Ana:
 - Criação de popups para as DENMs
